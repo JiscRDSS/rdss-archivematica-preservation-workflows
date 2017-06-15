@@ -5,6 +5,7 @@ The RDSS in Alpha phase will use version 1.6 of Archivematica, which provides a 
 <p>
 <img src="diagrams/ArchivematicaArchitecture.png" alt="Archivematica/Arkivum Architecture">
 </p>
+
 *Current Archivematica-Arkivum functionality/integration*
 
 
@@ -16,6 +17,7 @@ We encourage pIlot participants to ‘learn by doing’ and to try out Archivema
 <p>
 <img src="diagrams/ArchivematicaWorkflow.png" alt="Archivematica Workflow">
 </p>
+
 *Archivematica internal workflow*
 
 The diagram above summarises the key capabilities of the preservation platform:  
