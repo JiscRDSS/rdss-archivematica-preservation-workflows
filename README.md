@@ -10,3 +10,13 @@ Documentation of the preservation workflows that will be supported by the open-s
 [MVP Digital Preservation Scenario](MVPDigitalPreservationScenario.md)
 
 [Background on MVP workflows](MVPWorkflowBackground.md)
+
+[MVP Automated Preservation Workflow](MVPAutomatedWorkflow.md)
+
+[MVP Interactive Preservation Workflow](MVPInteractiveWorkflow.md)
+
+[MVP Dataset Retrieval Workflow](MVPDatasetRetrievalWorkflow.md)
+
+[MVP Preservation Planning Workflow](MVPPreservationPlanningWorkflow.md)
+
+
