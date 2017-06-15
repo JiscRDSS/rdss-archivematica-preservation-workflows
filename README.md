@@ -6,3 +6,5 @@ Documentation of the preservation workflows that will be supported by the open-s
 [Goals and Objectives](GoalsAndObjectives.md)
 
 [MVP Digital Preservation Scenario](MVPDigitalPreservationScenario.md)
+
+[Background on MVP workflows](MVPWorkflowBackground.md)
