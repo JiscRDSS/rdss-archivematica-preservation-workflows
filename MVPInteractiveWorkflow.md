@@ -149,7 +149,7 @@ The approval of the update to the Dataset's Metadata triggers a new AIP to be cr
 
 
 
-Notes:
+### Notes
 
 * The Repository could be hosted by the RDSS or it could be an Institutional Repository or a CRIS system. 
 
@@ -161,6 +161,8 @@ Notes:
 
 * The workflows includes DIP creation, but there is no route to automatically pass the DIP to the Repository so it can be used as the access version of the Dataset.  This will need to be done manually by the Data Manager.
 
+* Several HEIs expressed a preference for doing initial Dataset appraisal outside of Archivematica using separate tools for file format identification etc.  We'll look at how best to support this in the Beta.
+
 
 ### Some of the things we have planned for the Beta for the interactive workflow
 
@@ -169,5 +171,9 @@ Notes:
 * Rules/policies for 'routing' Datasets between automated and interactive workflows.
 
 * Templates/processing configurations of what preservation processes to apply to different types of Dataset.
+
+* Improvements to Dataset appraisal, either within Archivematica, locally at an Institution or using a hosted 'appraisal workbench' that supports a set of appraisal tools and freeform investigation of Datasets and their Files.
+
+* Policies/decision making on what metadata should be stored as part of the AIP, including AIP updates, and what metadata should remain in the RDSS or Repository without capture into an AIP.
 
 
