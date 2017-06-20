@@ -15,7 +15,7 @@ Documentation of the preservation workflows that will be supported by the open-s
 
 [MVP Interactive Preservation Workflow](MVPInteractiveWorkflow.md)
 
-[MVP Dataset Retrieval Workflow](MVPDatasetRetrievalWorkflow.md)
+[MVP Dataset Retrieval Workflow](RetrievalWorkflow.md)
 
 [MVP Preservation Planning Workflow](MVPPreservationPlanningWorkflow.md)
 
